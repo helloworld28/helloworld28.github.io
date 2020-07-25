@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: 阿军的技术博客                          # the main title
+title: 鹰空的技术博客                         # the main title
 
-tagline: 我是我，不一样的烟火.  # it will display as the sub-title
+tagline: 愿鹰击长空般在生活里遨游.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
  这个我的个人博客，我会在上面分享自己的技术笔记.
@@ -18,7 +18,7 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://hellworld28.github.io'
 
-author: 致远                  # change to your full name
+author: 鹰空                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
@@ -29,7 +29,7 @@ twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: 致远                  # it will shows as the copyright owner in Footer
+  name: 鹰空                  # it will shows as the copyright owner in Footer
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
