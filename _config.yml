@@ -13,7 +13,7 @@ title:  鹰空长空                        # the main title
 tagline: 享受编程快乐，乐于分享.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
- 这个我的个人博客，我会在上面分享自己的技术笔记.
+ 鹰空长空的个人博客，在这里分享技术，包含Java基础，多线程，SpringCloud,Dubbo微服务等相关技术，框架源码笔记等，同时会分享生活的感悟，一些软件技巧，好玩有趣的东西等.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://helloworld28.github.io'

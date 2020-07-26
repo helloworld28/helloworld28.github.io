@@ -3,7 +3,7 @@ title: 开始的github page 博客之旅
 author: 市井之徒
 date: 2020-07-25 00:34:00 +0800
 categories: [博客, 感悟]
-tags: [githud page]
+tags: [Github Pages]
 toc: true
 ---
 # 开始在这里安家
