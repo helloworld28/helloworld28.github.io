@@ -2,7 +2,7 @@
 title: 开始的Github Pages 博客之旅
 author: 市井之徒
 date: 2020-07-25 12:34:00 +0800
-categories: [博客, 感悟]
+categories: [post, thinking]
 tags: [Github Pages]
 toc: true
 ---

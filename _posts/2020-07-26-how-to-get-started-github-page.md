@@ -2,7 +2,7 @@
 title: 怎样在Github Pages写博客
 author: 庄稼
 date: 2020-07-26 14:34:00 +0800
-categories: [博客, 笔记]
+categories: [post, note]
 tags: [Github Pages,Jekyll]
 toc: true
 ---
