@@ -1,15 +1,11 @@
 ---
-title: 如何监控Spring Boot应用
+title: 关于Spring Boot 应用监控几种方案
 author: qinyujun
 date: 2020-08-01 15:34:00 +0800
 categories: [博客,  笔记]
 tags: [Spring Boot, 监控]
 toc: true
 ---
-
-# 如何监控Spring Boot应用
-
-#  关于Spring Boot 应用监控几种方案
 
 ## 概述
 
