@@ -9,11 +9,6 @@
 label: "Share"
 
 platforms:
-  -
-    type: Twitter
-    icon: "fab fa-twitter"
-    link: "https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=URL&sharesource=qzone&title=TITLE&pics=&summary=TITLE"
-
 
   # Uncomment below if you need to.
   # -
