@@ -243,3 +243,8 @@ public class AuditLog implements Serializable {
 
 
 
+## 参考：
+
+工程全部代码：https://github.com/helloworld28/audit-log-demo
+
+Bootstrap-table:https://examples.bootstrap-table.com/#welcome.html#view-source
