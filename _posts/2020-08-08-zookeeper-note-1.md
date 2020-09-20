@@ -4,7 +4,7 @@ author: powerjun
 date: 2020-08-08 09:14:00 +0800
 categories: [博客,  笔记]
 tags: [zookeeper, 分布式]
-toc: true出
+toc: true
 ---
 
 ### 概述
