@@ -1,5 +1,5 @@
 ---
-title: Spring scheduler 避坑使用指南及原理剖析
+title: Spring scheduler 定时任务避坑使用指南及原理剖析
 author: powerjun        
 date: 2021-03-20 17:38:00 +0800
 categories: [笔记,  技术杂记]
