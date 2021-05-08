@@ -1,11 +1,12 @@
-title: Redis Cluster 一键部署
+---
+title: Redis 集群（三主三从）快速搭建
 author: powerjun        
 date: 2021-05-03 22:38:00 +0800
 categories: [笔记,  技术杂记]
-tags: [redis,cluster]
-toc: true
-
-在学习Redis 的过程中， 很多博客教程中涉及到搭建Redis Cluster 到一台机上去做测试时，我是按照教程去还有去操作，后面可能是因为版本的一些问题，我就找到官方的文档去看，发现官方的文档已经很具体了，而且有很快捷的方式去在一台机搭建一个三主三从的集群，已经提交了对应的shell 脚本了，直接运行就有了。
+tags: [redis]
+toc: false
+---
+在学习Redis 的过程中， 很多博客教程中涉及到搭建Redis 集群（三主三从）到一台机上去做测试时，我是按照教程去去操作，后面可能是因为版本的一些问题，我就找到官方的文档去看，发现官方的文档介绍已经很具体了，而且有非常快捷的方式去在一台机搭建一个三主三从的集群，已经存在对应的shell 脚本了，直接运行就有了。
 
 ### 安装Redis 
 
@@ -22,7 +23,7 @@ $ make
 
 ### 启动集群的六个节点
 
-进入目录 utils/create-cluster 运行以下命令，它就会启动了六个Redis server 进行，端口分别是 [30001 ~ 30006]
+进入目录 utils/create-cluster 运行以下命令，它就会启动了六个Redis server 进程，端口分别是 [30001 ~ 30006]
 
 ```
 [vagrant@localhost create-cluster]$ ./create-cluster start
